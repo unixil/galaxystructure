@@ -1,0 +1,28 @@
+* feedback in low mass galaxies in the early universe
+** feedback: during the star birth, evolution and death, they will
+release large quantity energy and momentum into the gas surrounding
+the sites star formation. This process is called feedback. It will
+inhibit further star formation by heating the gas or blow them
+away. Without feedback we should find more stars than we find now.
+** C1
+*** the overall star formation density of the university
+*** the reironization
+*** outflow property are scaled with mass and star-formation rate.
+*** low mass galaxy as sources of ironized photons which are cause of
+ironization and the feedback help the escape of these photons.
+*** lyman line are able to indicate the existence of feedback but are
+not able to map the velocity of the outflow.
+*** mass of gas ejected from the star-formation area are approximatly
+equal to the mass of the stars the gas will form.
+*** star formation rate peak: $z\sim 2-3$
+*** outflow impact: relation of heavy element content and mass of the
+galaxy
+*** some gas between and surround the galaxy are metal enriched
+*** efficients of stellar formation needs to be explained, halo mass
+bigger than $10^{12} M_{sun}$ may be due to feedback, and halo mass
+lower than $10^{12} M_{SUN}$ may be due to formation and evolution of
+massive stars.
+*** now we can only simulate the outflow by computer and it does not
+do quite well
+** observation of outflow at high redshift
+
